@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-demos-java'
+include 'kafka-consumer-elasticsearch'
+include 'kafka-producer-wikimedia'
+include 'kafka-basics'
+
